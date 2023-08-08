@@ -223,3 +223,7 @@
 	url = git@github.com:OCA/fleet.git
 [submodule "git@github.com:OCA/fleet.git"]
 	branch = 14.0
+[submodule "storage"]
+	path = storage
+	url = https://github.com/OCA/storage
+	branch = 14.0
